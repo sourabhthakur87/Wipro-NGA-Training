@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\bin\Debug\net9.0\Looping_and_Arrays.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\bin\Debug\net9.0\Looping_and_Arrays.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\bin\Debug\net9.0\Looping_and_Arrays.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\bin\Debug\net9.0\Looping_and_Arrays.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\bin\Debug\net9.0\Looping_and_Arrays.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\obj\Debug\net9.0\Looping_and_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\obj\Debug\net9.0\Looping_and_Arrays.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\obj\Debug\net9.0\Looping_and_Arrays.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\obj\Debug\net9.0\Looping_and_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\obj\Debug\net9.0\Looping_and_Arrays.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\obj\Debug\net9.0\Looping_and_Arrays.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\obj\Debug\net9.0\refint\Looping_and_Arrays.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\obj\Debug\net9.0\Looping_and_Arrays.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\obj\Debug\net9.0\Looping_and_Arrays.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\Looping_and_Arrays\obj\Debug\net9.0\ref\Looping_and_Arrays.dll

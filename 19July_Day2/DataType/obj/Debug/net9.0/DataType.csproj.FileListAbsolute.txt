@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\bin\Debug\net9.0\DataType.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\bin\Debug\net9.0\DataType.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\bin\Debug\net9.0\DataType.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\bin\Debug\net9.0\DataType.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\bin\Debug\net9.0\DataType.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\obj\Debug\net9.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\obj\Debug\net9.0\DataType.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\obj\Debug\net9.0\DataType.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\obj\Debug\net9.0\DataType.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\obj\Debug\net9.0\DataType.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\obj\Debug\net9.0\DataType.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\obj\Debug\net9.0\refint\DataType.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\obj\Debug\net9.0\DataType.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\obj\Debug\net9.0\DataType.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\19July_Day2\DataType\obj\Debug\net9.0\ref\DataType.dll
