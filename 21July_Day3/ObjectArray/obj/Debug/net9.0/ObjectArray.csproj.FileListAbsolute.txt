@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\bin\Debug\net9.0\ObjectArray.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\bin\Debug\net9.0\ObjectArray.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\bin\Debug\net9.0\ObjectArray.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\bin\Debug\net9.0\ObjectArray.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\bin\Debug\net9.0\ObjectArray.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\obj\Debug\net9.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\obj\Debug\net9.0\ObjectArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\obj\Debug\net9.0\ObjectArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\obj\Debug\net9.0\ObjectArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\obj\Debug\net9.0\ObjectArray.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\obj\Debug\net9.0\ObjectArray.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\obj\Debug\net9.0\refint\ObjectArray.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\obj\Debug\net9.0\ObjectArray.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\obj\Debug\net9.0\ObjectArray.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\21July_Day3\ObjectArray\obj\Debug\net9.0\ref\ObjectArray.dll

@@ -1,0 +1,35 @@
+In this assignment, you will create a simple library management system using C#. You will define a custom class called Book to represent books and implement basic functionalities to add and view book records.
+
+Task:
+
+Define the Book Class:
+
+Create a C# class named Book.
+
+Add properties to the class: Title (string type), Author (string type), and Year (integer type).
+
+Implement a constructor in the Book class to initialize these properties.
+
+Input Handling:
+
+Use the Console.ReadLine() method to prompt the user to enter the book's title, author, and year.
+
+Convert the user input for year to an integer using Convert.ToInt32() method.
+
+Create an Instance of the Book Class:
+
+Instantiate the Book class using the input provided by the user for title, author, and year.
+
+Print Output:
+
+Print out the values of the Title, Author, and Year properties of the created Book instance to the console.
+
+Instructions:
+
+Write the C# code for the Book class and the Main method as described above.
+
+Ensure that the input prompts are clear and informative to guide the user.
+
+Test your program by running it and providing different inputs to verify its functionality.
+
+Document your code with appropriate comments to explain its purpose and functionality.
