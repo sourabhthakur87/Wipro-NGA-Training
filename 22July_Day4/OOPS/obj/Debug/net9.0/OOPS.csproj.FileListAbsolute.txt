@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\obj\Debug\net9.0\OOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\obj\Debug\net9.0\OOPS.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\obj\Debug\net9.0\OOPS.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\obj\Debug\net9.0\OOPS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\obj\Debug\net9.0\OOPS.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\bin\Debug\net9.0\OOPS.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\bin\Debug\net9.0\OOPS.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\bin\Debug\net9.0\OOPS.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\bin\Debug\net9.0\OOPS.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\bin\Debug\net9.0\OOPS.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\obj\Debug\net9.0\OOPS.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\obj\Debug\net9.0\refint\OOPS.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\obj\Debug\net9.0\OOPS.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\obj\Debug\net9.0\OOPS.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\22July_Day4\OOPS\obj\Debug\net9.0\ref\OOPS.dll

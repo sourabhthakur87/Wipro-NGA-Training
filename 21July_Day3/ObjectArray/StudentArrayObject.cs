@@ -8,27 +8,27 @@ class StudentArray
     {
 
         int studentCount = 3;
-        Student[] students = new Student[studentCount];//Array of student class 
-        // string[][] studentSubject = new string[noOfStudent][];
+        Student[] newStudent = new Student[studentCount];//Array of student class 
+        // string[][] newStudentubject = new string[noOfStudent][];
         for (int i = 0; i < studentCount; i++)
         {
-            students[i] = new Student();// With a new keyword object will be created and stored in a memory of a student class 
+            newStudent[i] = new Student();// With a new keyword object will be created and stored in a memory of a student class 
             Console.WriteLine("Enter name of student");
-            students[i].Name = Console.ReadLine();
+            newStudent[i].Name = Console.ReadLine();
 
             Console.WriteLine("Enter Age of student");
-            students[i].Age = Convert.ToInt32(Console.ReadLine());
+            newStudent[i].Age = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("How many subjects you want to store marks");
             int subjectCount = Convert.ToInt32(Console.ReadLine());
 
-            students[i].SubjectMarks = new int[subjectCount];
+            newStudent[i].SubjectMarks = new int[subjectCount];
 
             for (int j = 0; j < subjectCount; j++)
             {
 
                 Console.Write("Enter marks for subjects :");
-                students[i].SubjectMarks[j] = Convert.ToInt32(Console.ReadLine());
+                newStudent[i].SubjectMarks[j] = Convert.ToInt32(Console.ReadLine());
 
             }
 
