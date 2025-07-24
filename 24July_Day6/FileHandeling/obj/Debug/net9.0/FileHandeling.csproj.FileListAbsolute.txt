@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\obj\Debug\net9.0\FileHandeling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\obj\Debug\net9.0\FileHandeling.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\obj\Debug\net9.0\FileHandeling.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\obj\Debug\net9.0\FileHandeling.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\obj\Debug\net9.0\FileHandeling.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\bin\Debug\net9.0\FileHandeling.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\bin\Debug\net9.0\FileHandeling.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\bin\Debug\net9.0\FileHandeling.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\bin\Debug\net9.0\FileHandeling.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\bin\Debug\net9.0\FileHandeling.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\obj\Debug\net9.0\FileHandeling.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\obj\Debug\net9.0\refint\FileHandeling.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\obj\Debug\net9.0\FileHandeling.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\obj\Debug\net9.0\FileHandeling.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\FileHandeling\obj\Debug\net9.0\ref\FileHandeling.dll

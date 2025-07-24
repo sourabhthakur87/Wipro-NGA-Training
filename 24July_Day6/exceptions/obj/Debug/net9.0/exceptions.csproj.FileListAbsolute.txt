@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\bin\Debug\net9.0\exceptions.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\bin\Debug\net9.0\exceptions.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\bin\Debug\net9.0\exceptions.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\bin\Debug\net9.0\exceptions.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\bin\Debug\net9.0\exceptions.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\obj\Debug\net9.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\obj\Debug\net9.0\exceptions.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\obj\Debug\net9.0\exceptions.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\obj\Debug\net9.0\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\obj\Debug\net9.0\exceptions.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\obj\Debug\net9.0\exceptions.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\obj\Debug\net9.0\refint\exceptions.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\obj\Debug\net9.0\exceptions.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\obj\Debug\net9.0\exceptions.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\24July_Day6\exceptions\obj\Debug\net9.0\ref\exceptions.dll

@@ -8,9 +8,9 @@ class Students
 
     public Dictionary<string, int> SubMarks = new Dictionary<string, int>();
 
-    public double GetAverage(int total, int cout)
+    public void GetAverage(int total, int cout)
     {
-        return total / cout;
+        Console.WriteLine(total / cout + "\n");
     }
 
 
@@ -89,7 +89,8 @@ class MainProgram
                 Console.WriteLine($"The Subject is {sub.Key} and the Marks is {sub.Value}");
                 totalMarks += sub.Value;
             }
-            Console.WriteLine($"The Average is {detail.GetAverage(totalMarks, cout)}");
+            // Console.WriteLine($"The Average is {detail.GetAverage(totalMarks, cout)}");
+            detail.GetAverage(totalMarks, cout);
             Console.WriteLine(new string('-', 40));
         }
 

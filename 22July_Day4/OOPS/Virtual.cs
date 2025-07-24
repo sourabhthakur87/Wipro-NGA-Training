@@ -1,3 +1,38 @@
+// // // public class Person
+// // // {
+// // //     public virtual string Identity()
+// // //     {
+// // //         return $"Hello Parent";
+// // //     }
+// // // }
+
+// // // public class Student : Person
+// // // {
+// // //     public Student() : base(){}
+// // //     public override string Identity()
+// // //     {
+// // //         Console.WriteLine($"Hello: {base.Identity()}");
+// // //         return "0";
+// // //     }
+// // // }
+
+// // // public class MainProgram
+// // // {
+// // //     public static void Main()
+// // //     {
+// // //         Person s1 = new Student();
+// // //         s1.Identity();
+// // //         Person p1 = new Person();
+// // //         Console.WriteLine(p1.Identity());
+// // //         Student s2 = new Student();
+// // //         s2.Identity();
+// // //     }
+// // // }
+
+
+
+
+
 // // public class Person
 // // {
 // //     public virtual string Identity()
