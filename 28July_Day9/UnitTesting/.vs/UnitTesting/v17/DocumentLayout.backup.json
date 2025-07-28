@@ -34,9 +34,9 @@
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\UnitTesting\\CalculatorTestProject\\UnitTest1.cs",
               "RelativeDocumentMoniker": "CalculatorTestProject\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\UnitTesting\\CalculatorTestProject\\UnitTest1.cs*",
-              "RelativeToolTip": "CalculatorTestProject\\UnitTest1.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\UnitTesting\\CalculatorTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "CalculatorTestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T06:18:46.193Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "UnitTesting\\Calculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T06:16:40.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:16:40.396Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "UnitTesting\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T06:16:00.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:16:00.472Z"
             }
           ]
         }

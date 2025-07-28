@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\bin\Debug\net8.0\PracticeDay8Q2.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\bin\Debug\net8.0\PracticeDay8Q2.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\bin\Debug\net8.0\PracticeDay8Q2.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\bin\Debug\net8.0\PracticeDay8Q2.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\bin\Debug\net8.0\PracticeDay8Q2.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\obj\Debug\net8.0\PracticeDay8Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\obj\Debug\net8.0\PracticeDay8Q2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\obj\Debug\net8.0\PracticeDay8Q2.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\obj\Debug\net8.0\PracticeDay8Q2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\obj\Debug\net8.0\PracticeDay8Q2.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\obj\Debug\net8.0\PracticeDay8Q2.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\obj\Debug\net8.0\refint\PracticeDay8Q2.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\obj\Debug\net8.0\PracticeDay8Q2.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\obj\Debug\net8.0\PracticeDay8Q2.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticeDay8Q2\PracticeDay8Q2\obj\Debug\net8.0\ref\PracticeDay8Q2.dll

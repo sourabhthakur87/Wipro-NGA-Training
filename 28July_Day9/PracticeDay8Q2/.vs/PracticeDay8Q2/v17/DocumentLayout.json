@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7583778-BFB0-443C-BF36-4FBD1EE2CC40}|PracticeDay8Q2\\PracticeDay8Q2.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\28july_day9\\practiceday8q2\\practiceday8q2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7583778-BFB0-443C-BF36-4FBD1EE2CC40}|PracticeDay8Q2\\PracticeDay8Q2.csproj|solutionrelative:practiceday8q2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE52ABB-EE09-45C3-8187-24187EA1E352}|LibraryNUnit.NUnit\\LibraryNUnit.NUnit.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\28july_day9\\practiceday8q2\\librarynunit.nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE52ABB-EE09-45C3-8187-24187EA1E352}|LibraryNUnit.NUnit\\LibraryNUnit.NUnit.csproj|solutionrelative:librarynunit.nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7583778-BFB0-443C-BF36-4FBD1EE2CC40}|PracticeDay8Q2\\PracticeDay8Q2.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\28july_day9\\practiceday8q2\\practiceday8q2\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7583778-BFB0-443C-BF36-4FBD1EE2CC40}|PracticeDay8Q2\\PracticeDay8Q2.csproj|solutionrelative:practiceday8q2\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7583778-BFB0-443C-BF36-4FBD1EE2CC40}|PracticeDay8Q2\\PracticeDay8Q2.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\28july_day9\\practiceday8q2\\practiceday8q2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7583778-BFB0-443C-BF36-4FBD1EE2CC40}|PracticeDay8Q2\\PracticeDay8Q2.csproj|solutionrelative:practiceday8q2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7583778-BFB0-443C-BF36-4FBD1EE2CC40}|PracticeDay8Q2\\PracticeDay8Q2.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\28july_day9\\practiceday8q2\\practiceday8q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7583778-BFB0-443C-BF36-4FBD1EE2CC40}|PracticeDay8Q2\\PracticeDay8Q2.csproj|solutionrelative:practiceday8q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\LibraryNUnit.NUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LibraryNUnit.NUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\LibraryNUnit.NUnit\\UnitTest1.cs",
+              "RelativeToolTip": "LibraryNUnit.NUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:36:25.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\PracticeDay8Q2\\Library.cs",
+              "RelativeDocumentMoniker": "PracticeDay8Q2\\Library.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\PracticeDay8Q2\\Library.cs",
+              "RelativeToolTip": "PracticeDay8Q2\\Library.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:35:02.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\PracticeDay8Q2\\Borrower.cs",
+              "RelativeDocumentMoniker": "PracticeDay8Q2\\Borrower.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\PracticeDay8Q2\\Borrower.cs",
+              "RelativeToolTip": "PracticeDay8Q2\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:34:06.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\PracticeDay8Q2\\Book.cs",
+              "RelativeDocumentMoniker": "PracticeDay8Q2\\Book.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\PracticeDay8Q2\\Book.cs",
+              "RelativeToolTip": "PracticeDay8Q2\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:32:55.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\PracticeDay8Q2\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeDay8Q2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\PracticeDay8Q2\\PracticeDay8Q2\\Program.cs",
+              "RelativeToolTip": "PracticeDay8Q2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:32:06.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

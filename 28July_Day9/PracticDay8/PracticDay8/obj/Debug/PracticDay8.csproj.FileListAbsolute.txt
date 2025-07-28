@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticDay8\PracticDay8\bin\Debug\PracticDay8.exe.config
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticDay8\PracticDay8\bin\Debug\PracticDay8.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticDay8\PracticDay8\bin\Debug\PracticDay8.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticDay8\PracticDay8\obj\Debug\PracticDay8.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticDay8\PracticDay8\obj\Debug\PracticDay8.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticDay8\PracticDay8\obj\Debug\PracticDay8.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\PracticDay8\PracticDay8\obj\Debug\PracticDay8.pdb

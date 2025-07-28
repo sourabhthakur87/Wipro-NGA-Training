@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\Calculator_Demo\Calculator_Demo\bin\Debug\Calculator_Demo.exe.config
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\Calculator_Demo\Calculator_Demo\bin\Debug\Calculator_Demo.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\Calculator_Demo\Calculator_Demo\bin\Debug\Calculator_Demo.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\Calculator_Demo\Calculator_Demo\obj\Debug\Calculator_Demo.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\Calculator_Demo\Calculator_Demo\obj\Debug\Calculator_Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\Calculator_Demo\Calculator_Demo\obj\Debug\Calculator_Demo.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\Calculator_Demo\Calculator_Demo\obj\Debug\Calculator_Demo.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\Calculator_Demo\Calculator_Demo\obj\Debug\Calculator_Demo.exe.config
