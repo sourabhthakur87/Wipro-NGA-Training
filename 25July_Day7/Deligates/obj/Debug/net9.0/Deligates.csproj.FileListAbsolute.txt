@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\bin\Debug\net9.0\Deligates.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\bin\Debug\net9.0\Deligates.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\bin\Debug\net9.0\Deligates.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\bin\Debug\net9.0\Deligates.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\bin\Debug\net9.0\Deligates.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\obj\Debug\net9.0\Deligates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\obj\Debug\net9.0\Deligates.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\obj\Debug\net9.0\Deligates.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\obj\Debug\net9.0\Deligates.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\obj\Debug\net9.0\Deligates.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\obj\Debug\net9.0\Deligates.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\obj\Debug\net9.0\refint\Deligates.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\obj\Debug\net9.0\Deligates.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\obj\Debug\net9.0\Deligates.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\Deligates\obj\Debug\net9.0\ref\Deligates.dll

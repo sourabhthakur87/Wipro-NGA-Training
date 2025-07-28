@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\bin\Debug\net8.0\UnitTesting.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\bin\Debug\net8.0\UnitTesting.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\bin\Debug\net8.0\UnitTesting.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\bin\Debug\net8.0\UnitTesting.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\bin\Debug\net8.0\UnitTesting.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\obj\Debug\net8.0\UnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\obj\Debug\net8.0\UnitTesting.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\obj\Debug\net8.0\UnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\obj\Debug\net8.0\UnitTesting.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\obj\Debug\net8.0\UnitTesting.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\obj\Debug\net8.0\refint\UnitTesting.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\obj\Debug\net8.0\UnitTesting.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\obj\Debug\net8.0\UnitTesting.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\28July_Day9\UnitTesting\UnitTesting\obj\Debug\net8.0\ref\UnitTesting.dll

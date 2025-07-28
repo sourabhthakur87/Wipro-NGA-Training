@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\bin\Debug\net9.0\ToupleAndMore.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\bin\Debug\net9.0\ToupleAndMore.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\bin\Debug\net9.0\ToupleAndMore.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\bin\Debug\net9.0\ToupleAndMore.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\bin\Debug\net9.0\ToupleAndMore.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\obj\Debug\net9.0\ToupleAndMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\obj\Debug\net9.0\ToupleAndMore.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\obj\Debug\net9.0\ToupleAndMore.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\obj\Debug\net9.0\ToupleAndMore.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\obj\Debug\net9.0\ToupleAndMore.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\obj\Debug\net9.0\ToupleAndMore.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\obj\Debug\net9.0\refint\ToupleAndMore.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\obj\Debug\net9.0\ToupleAndMore.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\obj\Debug\net9.0\ToupleAndMore.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25July_Day7\ToupleAndMore\obj\Debug\net9.0\ref\ToupleAndMore.dll

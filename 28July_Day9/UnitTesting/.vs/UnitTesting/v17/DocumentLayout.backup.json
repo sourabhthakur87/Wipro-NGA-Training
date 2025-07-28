@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\UnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB002B1-5816-49EF-9AD6-F902228B4ADB}|CalculatorTestProject\\CalculatorTestProject.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\28july_day9\\unittesting\\calculatortestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB002B1-5816-49EF-9AD6-F902228B4ADB}|CalculatorTestProject\\CalculatorTestProject.csproj|solutionrelative:calculatortestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC1F37D-1BA3-47C7-B6E9-9EE3AB8D860A}|UnitTesting\\UnitTesting.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\28july_day9\\unittesting\\unittesting\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC1F37D-1BA3-47C7-B6E9-9EE3AB8D860A}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC1F37D-1BA3-47C7-B6E9-9EE3AB8D860A}|UnitTesting\\UnitTesting.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\28july_day9\\unittesting\\unittesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC1F37D-1BA3-47C7-B6E9-9EE3AB8D860A}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\UnitTesting\\CalculatorTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CalculatorTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\UnitTesting\\CalculatorTestProject\\UnitTest1.cs*",
+              "RelativeToolTip": "CalculatorTestProject\\UnitTest1.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:18:46.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\UnitTesting\\UnitTesting\\Calculator.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\Calculator.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\UnitTesting\\UnitTesting\\Calculator.cs",
+              "RelativeToolTip": "UnitTesting\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:16:40.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\UnitTesting\\UnitTesting\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\28July_Day9\\UnitTesting\\UnitTesting\\Program.cs",
+              "RelativeToolTip": "UnitTesting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:16:00.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
