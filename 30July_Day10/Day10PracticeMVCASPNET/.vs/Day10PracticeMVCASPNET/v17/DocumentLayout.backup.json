@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\Day10PracticeMVCASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40190696-B3BD-42D9-87AD-E327533DFEDA}|Day10PracticeMVCASPNET\\Day10PracticeMVCASPNET.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\day10practicemvcaspnet\\day10practicemvcaspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40190696-B3BD-42D9-87AD-E327533DFEDA}|Day10PracticeMVCASPNET\\Day10PracticeMVCASPNET.csproj|solutionrelative:day10practicemvcaspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\Day10PracticeMVCASPNET\\Day10PracticeMVCASPNET\\appsettings.json",
+              "RelativeDocumentMoniker": "Day10PracticeMVCASPNET\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\Day10PracticeMVCASPNET\\Day10PracticeMVCASPNET\\appsettings.json",
+              "RelativeToolTip": "Day10PracticeMVCASPNET\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T15:08:30.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

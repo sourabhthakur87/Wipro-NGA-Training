@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\mvcapp\\razorpageappnew\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|solutionrelative:razorpageappnew\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\mvcapp\\razorpageappnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|solutionrelative:razorpageappnew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\mvcapp\\razorpageappnew\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|solutionrelative:razorpageappnew\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\mvcapp\\razorpageappnew\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|solutionrelative:razorpageappnew\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\mvcapp\\razorpageappnew\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|solutionrelative:razorpageappnew\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\mvcapp\\razorpageappnew\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|solutionrelative:razorpageappnew\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\mvcapp\\razorpageappnew\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|solutionrelative:razorpageappnew\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\mvcapp\\razorpageappnew\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|solutionrelative:razorpageappnew\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\mvcapp\\razorpageappnew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E9C7C86-C3E6-4211-9679-6FFD416D30AA}|RazorPageAppNew\\RazorPageAppNew.csproj|solutionrelative:razorpageappnew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RazorPageAppNew\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RazorPageAppNew\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T15:05:14.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPageAppNew\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPageAppNew\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T15:04:53.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "RazorPageAppNew\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Pages\\Error.cshtml",
+              "RelativeToolTip": "RazorPageAppNew\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T15:04:45.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RazorPageAppNew\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "RazorPageAppNew\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T15:04:43.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RazorPageAppNew\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "RazorPageAppNew\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T15:04:40.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RazorPageAppNew\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "RazorPageAppNew\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T15:04:36.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Program.cs",
+              "RelativeDocumentMoniker": "RazorPageAppNew\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Program.cs",
+              "RelativeToolTip": "RazorPageAppNew\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:58:41.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RazorPageAppNew\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RazorPageAppNew\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:03:42.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorPageAppNew\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\MVCAPP\\RazorPageAppNew\\appsettings.json",
+              "RelativeToolTip": "RazorPageAppNew\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T14:59:12.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

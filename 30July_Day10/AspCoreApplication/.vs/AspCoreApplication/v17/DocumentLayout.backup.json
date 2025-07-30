@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\AspCoreApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9984E9-DE5F-45A7-8D47-6149DBE9D25C}|AspCoreApplication\\AspCoreApplication.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\aspcoreapplication\\aspcoreapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D9984E9-DE5F-45A7-8D47-6149DBE9D25C}|AspCoreApplication\\AspCoreApplication.csproj|solutionrelative:aspcoreapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9984E9-DE5F-45A7-8D47-6149DBE9D25C}|AspCoreApplication\\AspCoreApplication.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\aspcoreapplication\\aspcoreapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9984E9-DE5F-45A7-8D47-6149DBE9D25C}|AspCoreApplication\\AspCoreApplication.csproj|solutionrelative:aspcoreapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9984E9-DE5F-45A7-8D47-6149DBE9D25C}|AspCoreApplication\\AspCoreApplication.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\aspcoreapplication\\aspcoreapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D9984E9-DE5F-45A7-8D47-6149DBE9D25C}|AspCoreApplication\\AspCoreApplication.csproj|solutionrelative:aspcoreapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9984E9-DE5F-45A7-8D47-6149DBE9D25C}|AspCoreApplication\\AspCoreApplication.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\aspcoreapplication\\aspcoreapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9984E9-DE5F-45A7-8D47-6149DBE9D25C}|AspCoreApplication\\AspCoreApplication.csproj|solutionrelative:aspcoreapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\AspCoreApplication\\AspCoreApplication\\Program.cs",
+              "RelativeDocumentMoniker": "AspCoreApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\AspCoreApplication\\AspCoreApplication\\Program.cs",
+              "RelativeToolTip": "AspCoreApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:59:09.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\AspCoreApplication\\AspCoreApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "AspCoreApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\AspCoreApplication\\AspCoreApplication\\appsettings.json",
+              "RelativeToolTip": "AspCoreApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T06:56:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\AspCoreApplication\\AspCoreApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AspCoreApplication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\AspCoreApplication\\AspCoreApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AspCoreApplication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T05:56:13.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\AspCoreApplication\\AspCoreApplication\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AspCoreApplication\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\AspCoreApplication\\AspCoreApplication\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "AspCoreApplication\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T05:50:29.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

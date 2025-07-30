@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\Day10PracticeMVCASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ED76EC8-EF07-4487-9F4C-1F7935BB712F}|Day10PracticeCode.Nunit\\Day10PracticeCode.Nunit.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\day10practicemvcaspnet\\day10practicecode.nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ED76EC8-EF07-4487-9F4C-1F7935BB712F}|Day10PracticeCode.Nunit\\Day10PracticeCode.Nunit.csproj|solutionrelative:day10practicecode.nunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40190696-B3BD-42D9-87AD-E327533DFEDA}|Day10PracticeMVCASPNET\\Day10PracticeMVCASPNET.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\30july_day10\\day10practicemvcaspnet\\day10practicemvcaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40190696-B3BD-42D9-87AD-E327533DFEDA}|Day10PracticeMVCASPNET\\Day10PracticeMVCASPNET.csproj|solutionrelative:day10practicemvcaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\Day10PracticeMVCASPNET\\Day10PracticeMVCASPNET\\Program.cs",
+              "RelativeDocumentMoniker": "Day10PracticeMVCASPNET\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\Day10PracticeMVCASPNET\\Day10PracticeMVCASPNET\\Program.cs",
+              "RelativeToolTip": "Day10PracticeMVCASPNET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:23:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\Day10PracticeMVCASPNET\\Day10PracticeCode.Nunit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Day10PracticeCode.Nunit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\30July_Day10\\Day10PracticeMVCASPNET\\Day10PracticeCode.Nunit\\UnitTest1.cs",
+              "RelativeToolTip": "Day10PracticeCode.Nunit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:20:25.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
