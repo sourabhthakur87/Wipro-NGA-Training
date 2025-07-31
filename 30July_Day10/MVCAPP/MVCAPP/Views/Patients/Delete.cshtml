@@ -1,0 +1,15 @@
+﻿@model MVCAPP.Models.Patients
+
+<form action="delete" method="post" >
+	@Html.HiddenFor(e => e.Id)
+	<h1>@Html.DisplayFor(e => e.Name)</h1>
+	<h1>@Html.DisplayFor(e => e.Alergies)</h1>
+	<h1>@Html.DisplayFor(e => e.Mobile)</h1>
+	<h3>Are you sure to delete </h3>
+	<div>
+		
+		<input type="submit" class="btn btn-danger" name="Delete" value="DELETE"/>
+	</div>
+	<br/>
+	<div><a href="../Patients" class="btn btn-success">No</a></div>
+</form>

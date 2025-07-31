@@ -1,0 +1,30 @@
+﻿
+@model IEnumerable<DoctorCRUDMVC.Models.Doctors>
+
+	<a href="../Doctors/AddDoctor" class="btn btn-primary">Add Doctor</a>
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>Name</th>
+				<th>Clinic Name</th>
+				<th>Mobile Number</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var doctor in Model)
+			{
+				<tr>
+					<td>@doctor.Name</td>
+					<td>@doctor.ClinicName</td>
+					<td>@doctor.MobileNumber</td>
+
+					<td>
+					<a href="../Doctors/EditDoctor?Id=@doctor.Id">Edit</a>
+					</td>
+					<td>
+					<a href="../Doctors/Delete?Id=@doctor.Id">Delete</a>
+					</td>
+				</tr>
+			}
+	</tbody>

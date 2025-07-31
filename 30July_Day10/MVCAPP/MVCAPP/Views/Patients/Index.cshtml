@@ -1,0 +1,25 @@
+﻿@model IEnumerable<MVCAPP.Models.Patients>
+
+	<table class="table table-striped">
+		<tr>
+			<th>ID</th>
+			<th>Name</th>
+			<th>Alergies</th>
+			<th>Mobile</th>
+			<th>EDIT</th>
+			<th>DELETE</th>
+
+		</tr>
+	@foreach(var item in Model)
+	{
+		<tr>
+			<td>@item.Id</td>
+			<td>@item.Name</td>
+			<td>@item.Alergies</td>
+			<td>@item.Mobile</td>
+			<td><a href="../Patients/Edit?id=@item.Id">Edit</a></td>
+			<td><a href="../Patients/Delete?id=@item.Id">View More</a></td>
+		</tr>
+	}
+	</table>
+<a href="../Patients/create" class="btn btn-primary"> Add Patients</a>

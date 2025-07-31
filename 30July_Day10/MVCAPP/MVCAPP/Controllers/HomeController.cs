@@ -16,7 +16,6 @@ namespace MVCAPP.Controllers
             _logger = logger;
         }
 
-        [Authorize(Roles = "admin")]
         public IActionResult Index()
         {
             return View();
@@ -25,7 +24,7 @@ namespace MVCAPP.Controllers
 
 
 
-        [Authorize(Roles = "staff")]
+ 
         public IActionResult Privacy()
         {
             return View();

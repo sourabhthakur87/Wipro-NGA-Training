@@ -1,0 +1,15 @@
+﻿@model DoctorCRUDMVC.Models.Doctors
+
+<form action="delete" method="post">
+	@Html.HiddenFor(e => e.Id)
+	<h1>@Html.DisplayFor(e => e.Name)</h1>
+	<h1>@Html.DisplayFor(e => e.ClinicName)</h1>
+	<h1>@Html.DisplayFor(e => e.MobileNumber)</h1>
+	<h3>Are you sure to delete </h3>
+	<div>
+
+		<input type="submit" class="btn btn-outline-danger " name="Delete" value="DELETE" />
+	</div>
+	<br />
+	<div><a href="../" class="btn btn-success">No</a></div>
+</form>

@@ -11,5 +11,6 @@ namespace MVCAPP.Data
         {
         }
         public DbSet<Patients> patients { get; set; }
+        public DbSet<Doctors> doctors { get; set; }
     }
 }
