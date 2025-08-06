@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Hobbies</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .navbar {
+            background: #007bff;
+            color: #fff;
+            padding: 12px 0;
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+        }
+        .navbar a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            padding: 8px 18px;
+            border-radius: 4px;
+            transition: background 0.2s;
+        }
+        .navbar a.active, .navbar a:hover {
+            background: #0056b3;
+        }
+        .container {
+            max-width: 500px;
+            margin: 40px auto;
+            background: #fff;
+            padding: 30px 40px 40px 40px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        form {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        input[type="text"] {
+            flex: 1;
+            padding: 8px;
+            border: 1px solid #bbb;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        button {
+            padding: 8px 16px;
+            border: none;
+            background: #007bff;
+            color: #fff;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button.edit {
+            background: #ffc107;
+            color: #333;
+            margin-left: 5px;
+        }
+        button.delete {
+            background: #dc3545;
+            color: #fff;
+            margin-left: 5px;
+        }
+        button.fav {
+            background: #28a745;
+            color: #fff;
+            margin-left: 5px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            background: #f9f9f9;
+            margin-bottom: 10px;
+            padding: 10px 10px;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .hobby-text {
+            flex: 1;
+        }
+        .hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <a href="#" id="mainPageLink" class="active">Main Page</a>
+        <a href="#" id="favPageLink">Favourite Hobbies</a>
+    </nav>
+    <div class="container" id="mainPage">
+        <h1>My Hobbies</h1>
+        <form id="hobbyForm">
+            <input type="text" id="hobbyInput" placeholder="Add a new hobby..." required>
+            <button type="submit" id="addBtn">Add</button>
+        </form>
+        <ul id="hobbyList"></ul>
+    </div>
+    <div class="container hidden" id="favPage">
+        <h1>Favourite Hobbies</h1>
+        <ul id="favList"></ul>
+    </div>
+    <script>
+        let hobbies = JSON.parse(localStorage.getItem('hobbies')) || [];
+        let favourites = JSON.parse(localStorage.getItem('favourites')) || [];
+        let editIndex = null;
+
+        function renderHobbies() {
+            const list = document.getElementById('hobbyList');
+            list.innerHTML = '';
+            hobbies.forEach((hobby, idx) => {
+                const isFav = favourites.includes(hobby);
+                const li = document.createElement('li');
+                li.innerHTML = `
+                    <span class="hobby-text">${hobby}</span>
+                    <span>
+                        <button class="edit" onclick="editHobby(${idx})">Edit</button>
+                        <button class="delete" onclick="deleteHobby(${idx})">Delete</button>
+                        <button class="fav" onclick="toggleFavourite(${idx})">${isFav ? 'Unfavourite' : 'Favourite'}</button>
+                    </span>
+                `;
+                list.appendChild(li);
+            });
+        }
+
+        function renderFavourites() {
+            const favList = document.getElementById('favList');
+            favList.innerHTML = '';
+            if (favourites.length === 0) {
+                favList.innerHTML = '<li>No favourite hobbies selected.</li>';
+                return;
+            }
+            favourites.forEach(hobby => {
+                const li = document.createElement('li');
+                li.innerHTML = `<span class="hobby-text">${hobby}</span>`;
+                favList.appendChild(li);
+            });
+        }
+
+        function saveHobbies() {
+            localStorage.setItem('hobbies', JSON.stringify(hobbies));
+        }
+        function saveFavourites() {
+            localStorage.setItem('favourites', JSON.stringify(favourites));
+        }
+
+        document.getElementById('hobbyForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const input = document.getElementById('hobbyInput');
+            const value = input.value.trim();
+            if (!value) return;
+            if (editIndex !== null) {
+                // If hobby is in favourites, update it there too
+                const oldHobby = hobbies[editIndex];
+                const favIdx = favourites.indexOf(oldHobby);
+                if (favIdx !== -1) {
+                    favourites[favIdx] = value;
+                    saveFavourites();
+                }
+                hobbies[editIndex] = value;
+                editIndex = null;
+                document.getElementById('addBtn').textContent = 'Add';
+            } else {
+                hobbies.push(value);
+            }
+            input.value = '';
+            saveHobbies();
+            renderHobbies();
+            renderFavourites();
+        });
+
+        window.editHobby = function(idx) {
+            document.getElementById('hobbyInput').value = hobbies[idx];
+            editIndex = idx;
+            document.getElementById('addBtn').textContent = 'Update';
+        }
+
+        window.deleteHobby = function(idx) {
+            // Remove from favourites if present
+            const hobby = hobbies[idx];
+            const favIdx = favourites.indexOf(hobby);
+            if (favIdx !== -1) {
+                favourites.splice(favIdx, 1);
+                saveFavourites();
+            }
+            hobbies.splice(idx, 1);
+            saveHobbies();
+            renderHobbies();
+            renderFavourites();
+        }
+
+        window.toggleFavourite = function(idx) {
+            const hobby = hobbies[idx];
+            const favIdx = favourites.indexOf(hobby);
+            if (favIdx === -1) {
+                favourites.push(hobby);
+            } else {
+                favourites.splice(favIdx, 1);
+            }
+            saveFavourites();
+            renderHobbies();
+            renderFavourites();
+        }
+
+        // Navbar navigation
+        document.getElementById('mainPageLink').addEventListener('click', function(e) {
+            e.preventDefault();
+            document.getElementById('mainPage').classList.remove('hidden');
+            document.getElementById('favPage').classList.add('hidden');
+            this.classList.add('active');
+            document.getElementById('favPageLink').classList.remove('active');
+        });
+        document.getElementById('favPageLink').addEventListener('click', function(e) {
+            e.preventDefault();
+            document.getElementById('mainPage').classList.add('hidden');
+            document.getElementById('favPage').classList.remove('hidden');
+            this.classList.add('active');
+            document.getElementById('mainPageLink').classList.remove('active');
+            renderFavourites();
+        });
+
+        renderHobbies();
+        renderFavourites();
+    </script>
+</body>
+</html>

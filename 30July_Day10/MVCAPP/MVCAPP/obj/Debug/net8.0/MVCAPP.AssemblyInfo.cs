@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MVCAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7dc56d7b536bd6fca51393b2a578e63b9b8d8d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+797944e2321bcd5a3c0b77f0a463099b9161b9fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MVCAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MVCAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\bin\Debug\net8.0\DesignPAttern.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\bin\Debug\net8.0\DesignPAttern.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\bin\Debug\net8.0\DesignPAttern.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\bin\Debug\net8.0\DesignPAttern.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\bin\Debug\net8.0\DesignPAttern.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\obj\Debug\net8.0\DesignPAttern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\obj\Debug\net8.0\DesignPAttern.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\obj\Debug\net8.0\DesignPAttern.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\obj\Debug\net8.0\DesignPAttern.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\obj\Debug\net8.0\DesignPAttern.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\obj\Debug\net8.0\DesignPAttern.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\obj\Debug\net8.0\refint\DesignPAttern.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\obj\Debug\net8.0\DesignPAttern.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\obj\Debug\net8.0\DesignPAttern.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\DesignPAttern\DesignPAttern\obj\Debug\net8.0\ref\DesignPAttern.dll

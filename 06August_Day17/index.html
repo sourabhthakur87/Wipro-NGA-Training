@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="ptag">JavaScript Example</p>
+
+    <button onclick="document.getElementById('images').src='./pic_bulbon.gif'">Click Me to Glow Bulb</button>
+
+    <img src="./pic_bulboff.gif" alt="" id="images">
+
+    <button onclick="document.getElementById('images').src='./pic_bulboff.gif'">Click Me to Off Bulb</button>
+    <button onclick="document.getElementById('ptag').style.fontSize='30px'">Change font of heading</button>
+    <br>
+    <br>
+
+    <h2 id="hidesee">Hide me or See Me</h2>
+
+    <button onclick="toggelHideandSeek()" id="button"> Hide Me </button>
+
+    <button onclick="alert('Wake up Buddy')">Alert Me</button>
+    <button onclick="window.print()">Print This Page</button>
+
+
+
+</body>
+
+<script>
+    function toggelHideandSeek() {
+        var element = document.getElementById('hidesee')
+
+        if (element.style.display === 'block') {
+            element.style.display = 'none'
+            document.getElementById('button').innerHTML = 'See Me'
+        }
+        else {
+            element.style.display = 'block'
+            document.getElementById('button').innerHTML = 'Hide Me'
+
+        }
+    }
+</script>
+
+</html>
