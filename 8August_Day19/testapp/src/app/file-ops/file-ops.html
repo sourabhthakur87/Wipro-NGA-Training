@@ -1,0 +1,14 @@
+
+<div class="container">
+    <h2>📝 File Operations App</h2>
+
+    <textarea rows="5" placeholder="Enter file content"></textarea>
+    <button class="btn btn-primary" (click)="handleWrite()">Write</button>
+    <button class="btn btn1" (click)="handleRead()">Read</button>
+    <button class="btn btn-info" (click)="handleDelete()">Delete</button>
+
+    <input style="background-color: aqua;" type="text" placeholder="New file name" />
+    <button class="badge text-bg-danger" (click)="handleRename()">Rename</button>
+
+    <p><strong>Status:</strong> {{ message }}</p>
+</div>

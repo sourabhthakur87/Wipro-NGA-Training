@@ -1,0 +1,14 @@
+{
+  "name": "wipro_node_learning",
+  "version": "1.0.0",
+  "description": "project for wipro node learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sourabh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

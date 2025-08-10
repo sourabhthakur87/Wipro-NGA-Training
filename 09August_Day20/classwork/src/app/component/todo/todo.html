@@ -1,0 +1,12 @@
+<p>todo works!</p>
+<input type="text" (input)=getInput($event) value="{{inputValue}}" name="" id="">
+<button (click)="createToDo()">Add ToDo</button>
+<!-- <button (click)="getTodoList()">Get Todo</button> -->
+
+<hr>
+@for(item of mytodo;track item){
+    <div>
+        <h1>{{item.id}}. {{item.work}} , Status: {{item.status}}</h1>
+        <button (click) = "deleteTodo(item.id)">Delete ToDo</button>
+    </div>
+}
