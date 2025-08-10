@@ -1,0 +1,29 @@
+<h1>Home Page</h1>
+
+<table class="todo-table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>ToDo</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (todo of todoList; track todo) {
+        <tr>
+            <td>{{todo.id}}</td>
+            <td>{{ todo.todo }}</td>
+            <td>{{ todo.status }}</td>
+            <td>
+                <button class="btn edit" routerLink="/edit/{{todo.id}}">Edit</button>
+                <button class="btn delete" (click)="deleteTodo(todo.id)">Delete</button>
+                <button (click)="changeStatus(todo.id)"
+                    [ngClass]="{'btn-done': todo.status === 'done', 'btn-pending': todo.status === 'pending'}">
+                    {{ todo.status === 'pending' ? 'Pending' : 'Done' }}
+                </button>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

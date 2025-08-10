@@ -1,0 +1,7 @@
+<div class="container">
+    <h1>Create ToDo</h1>
+    <form #userForm="ngForm" (ngSubmit)="addDetails(userForm)">
+        <input type="text" name="todo" ngModel id="todo" placeholder="Enter Todo">
+        <button type="submit">Submit</button>
+    </form>
+</div>

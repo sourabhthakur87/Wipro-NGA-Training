@@ -1,0 +1,96 @@
+/* === Overall Page Styles === */
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9fafb;
+  margin: 0;
+  padding: 30px;
+  color: #2d3748;
+}
+
+/* === Page Title === */
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 28px;
+  color: #1f2937;
+}
+
+/* === Table Styling === */
+.todo-table {
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+  border-collapse: collapse;
+  background-color: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+/* === Table Head === */
+.todo-table th {
+  background-color: #f3f4f6;
+  padding: 16px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 16px;
+  color: #4b5563;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+/* === Table Rows === */
+.todo-table td {
+  padding: 16px;
+  font-size: 15px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+/* === Buttons === */
+.btn {
+  padding: 6px 12px;
+  margin-right: 8px;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.btn.edit {
+  background-color: #facc15; /* yellow-400 */
+  color: #1f2937;
+}
+
+.btn.delete {
+  background-color: #ef4444; /* red-500 */
+  color: white;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+
+.btn-done {
+  background-color: #10b981; /* green */
+  color: white;
+    padding: 6px 12px;
+  margin-right: 8px;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.btn-pending {
+  background-color: #f59e0b; /* amber */
+  color: white;
+    padding: 6px 12px;
+  margin-right: 8px;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}

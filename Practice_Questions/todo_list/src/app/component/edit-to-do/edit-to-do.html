@@ -1,0 +1,15 @@
+<div class="container">
+  <h1>Edit ToDo</h1>
+
+  <form #userForm="ngForm" (ngSubmit)="editToDo(userForm)">
+    <input
+      type="text"
+      name="todo"
+      [(ngModel)]="todo.todo"
+      id="todo"
+      placeholder="Enter updated todo"
+      required
+    />
+    <button type="submit">Save</button>
+  </form>
+</div>
