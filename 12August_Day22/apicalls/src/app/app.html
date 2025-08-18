@@ -1,0 +1,11 @@
+<h1>Posts</h1>
+<ul>
+  <li *ngFor="let post of posts.slice(0,5)">
+    <strong>{{ post.title }}</strong>
+  </li>
+</ul>
+
+<div>
+    <app-groupform></app-groupform>
+    <app-tamplet-form></app-tamplet-form>
+</div>

@@ -1,0 +1,9 @@
+<h1>My Pipes Component</h1>
+
+<form>
+  <label for="name">Enter Text:</label>
+  <input type="text" id="name" name="name" [(ngModel)]="text" placeholder="Enter Text">
+</form>
+
+<h3>Your Reverse text is: {{ text | reversepipe }}</h3>
+

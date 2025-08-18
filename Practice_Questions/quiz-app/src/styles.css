@@ -1,0 +1,50 @@
+/* ========================= */
+/*        THEME SETUP       */
+/* ========================= */
+
+:root {
+  --bg-color: #f9fafb;
+  --text-color: black;
+  --card-bg: #ffffff;
+  --border-color: #ddd;
+  --accent-color: #007bff;
+  --nav-bg: #f4f6f8;
+  --nav-text: black;
+}
+
+body.dark-theme {
+  --bg-color: #1f1f2b;
+  --text-color: black;
+  --card-bg: #2a2a3d;
+  --border-color: #3b3b4f;
+  --accent-color: #4c9aff;
+  --nav-bg: #26263a;
+  --nav-text: #f0f0f0;
+}
+
+/* Apply global variables */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+h1, h2, h3, label {
+  color: var(--text-color);
+}
+
+button {
+  background-color: var(--accent-color);
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  opacity: 0.9;
+}

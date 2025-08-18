@@ -1,0 +1,26 @@
+<h1>Reactive Form</h1>
+
+
+
+<form [formGroup]="loginForm" (ngSubmit)='onSubmit()'>
+    <input type="text" placeholder="Enter email" formControlName='email'>
+    <div *ngIf="loginForm.get('email')?.touched && loginForm.get('email')?.invalid" style="color:red;">
+        <small *ngIf="loginForm.get('email')?.errors?.['required']">Email is required.</small>
+        <small *ngIf="loginForm.get('email')?.errors?.['email']">Invalid email format.</small>
+        <small *ngIf="loginForm.get('email')?.errors?.['noSpaces']">
+            Email cannot contain spaces.
+        </small>
+    </div>
+    <br />
+    <br />
+    <input type="password" name="" id="" placeholder="Enter password" formControlName='password'>
+    <div *ngIf="loginForm.get('password')?.touched && loginForm.get('password')?.invalid" style="color:red;">
+        <small *ngIf="loginForm.get('password')?.errors?.['required']">Password is required.</small>
+        <small *ngIf="loginForm.get('password')?.errors?.['minlength']">
+            Password must be at least 6 characters.
+        </small>
+    </div>
+    <br />
+    <br />
+    <button>Submit</button>
+</form>

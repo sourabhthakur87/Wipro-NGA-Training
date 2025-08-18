@@ -1,0 +1,37 @@
+
+<form #quizSelect="ngForm" (ngSubmit)="selectQuiz(quizSelect)" class="quiz-form">
+  <h1 class="form-title">Select Quiz Type</h1>
+
+  <label for="amount">Number of Questions</label>
+  <select name="amount" id="amount" ngModel required>
+    <option disabled value="">Select No. of Questions</option>
+    <option value="5">5</option>
+    <option value="10">10</option>
+    <option value="20">20</option>
+  </select>
+
+  <label for="category">Category</label>
+  <select name="category" id="category" ngModel required>
+    <option disabled value="">Select Category</option>
+    <option value="9">General Knowledge</option>
+    <option value="10">Entertainment: Books</option>
+    <option value="11">Entertainment: Film</option>
+    <option value="12">Entertainment: Music</option>
+    <option value="14">Entertainment: Television</option>
+    <option value="15">Entertainment: Video Games</option>
+    <option value="17">Science & Nature</option>
+    <option value="18">Science: Computers</option>
+    <option value="19">Science: Mathematics</option>
+    <option value="21">Sports</option>
+  </select>
+
+  <label for="difficulty">Difficulty</label>
+  <select name="difficulty" id="difficulty" required ngModel>
+    <option value="" disabled>Select difficulty level</option>
+    <option value="easy">Easy</option>
+    <option value="medium">Medium</option>
+    <option value="hard">Hard</option>
+  </select>
+
+  <button [disabled]="quizSelect.invalid">Submit</button>
+</form>

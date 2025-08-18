@@ -1,0 +1,35 @@
+
+<div *ngIf="historyData.length > 0; else noData">
+  <h1 class="page-title">Result History</h1>
+  <table class="history-table animate-fade-in">
+    <thead>
+      <tr>
+        <th>S.No.</th>
+        <th>Total Marks</th>
+        <th>Obtained Marks</th>
+        <th>Category</th>
+        <th>Difficulty</th>
+        <th>Date</th>
+        <th>Time</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      @for (item of historyData; let i = $index; track item) {
+        <tr>
+          <td>{{ i + 1 }}</td>
+          <td>{{ item.totalQuestions }}</td>
+          <td>{{ item.marks }}</td>
+          <td>{{ item.category }}</td>
+          <td>{{ item.difficulty }}</td>
+          <td>{{ item.dateTime | date:'shortDate' }}</td>
+          <td>{{ item.dateTime | date:'HH:mm:ss' }}</td>
+        </tr>
+      }
+    </tbody>
+  </table>
+</div>
+
+<ng-template #noData>
+  <p class="no-history">No quiz history available.</p>
+</ng-template>

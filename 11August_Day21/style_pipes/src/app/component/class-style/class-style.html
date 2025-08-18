@@ -1,0 +1,4 @@
+<h1>This is ngClass Component</h1>
+
+<h3 [ngClass]="status ? 'done' : 'pending'">Work is {{status? "Done" : "Pending"}}</h3>
+<button (click)="UpdateStatus()" [ngClass]="status ? 'btndone' : 'btnpending'">Make Work {{status ? "Pending" : "Done"}}</button>

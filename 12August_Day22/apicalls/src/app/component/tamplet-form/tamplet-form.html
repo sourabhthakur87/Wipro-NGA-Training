@@ -1,0 +1,12 @@
+<h1>Tamplet Form</h1>
+
+
+<form #feedbackForm="ngForm" (ngSubmit)="formData(feedbackForm)">
+    <input ngModel type="email" name="email" id="" placeholder="Enter Email">
+    <br>
+    <br>
+    <input type="password" name="password" ngModel placeholder="Enter Password">
+    <br>
+    <br>
+    <button>Submit</button>
+</form>

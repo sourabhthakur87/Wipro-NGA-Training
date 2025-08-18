@@ -1,0 +1,18 @@
+<h1>Currency Converter</h1>
+
+<form [formGroup]="converter" (ngSubmit)="onSubmit()">
+  <input 
+    type="number" 
+    name="currency" 
+    formControlName="currency" 
+    placeholder="Enter Currency"
+  >
+  <button>Convert to USD</button>
+</form>
+
+
+<h1>
+  {{ num.currency * 0.012 | currency: 'USD': 'symbol':'1.2-2' }}
+</h1>
+
+

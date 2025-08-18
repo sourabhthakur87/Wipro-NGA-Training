@@ -1,0 +1,8 @@
+<div class="container">
+  <h1>EduLearn - Course Management</h1>
+
+
+  <app-course-list [courses]="courses" (courseSelected)="onCourseSelected($event)">></app-course-list>
+
+  <app-course-details l [course]="selectedCourse"></app-course-details>
+</div>

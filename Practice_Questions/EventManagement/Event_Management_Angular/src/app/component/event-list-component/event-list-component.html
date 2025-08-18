@@ -1,0 +1,17 @@
+<h1>Event Details</h1>
+<table>
+    <tr>
+        <th>Sr.</th>
+        <th>Event Name</th>
+        <th>Date</th>
+        <th>Ticket Price</th>
+        <th>Category</th>
+    </tr>
+    <tr *ngFor="let event of events;let i = index" [appHighlightDirective]="event.price">
+        <td>{{i+1}}</td>
+        <td>{{ event.name }}</td>
+        <td>{{ event.date }}</td>
+        <td>{{ event.price | currency:'INR'  }}</td>
+        <td>{{ event.category }}</td>
+    </tr>
+</table>

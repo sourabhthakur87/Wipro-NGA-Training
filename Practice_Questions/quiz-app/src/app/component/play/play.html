@@ -1,0 +1,29 @@
+<div class="quiz-container" *ngIf="quizData.length > 0">
+    <h1 class="title">Play Quiz</h1>
+
+    <div class="question-card animate-fade-in">
+        <h3 class="question" [innerHTML]="quizData[currentQuestionIndex].question"></h3>
+
+        <form #selectedoption="ngForm" (ngSubmit)="checkAns(selectedoption)" class="answers">
+            <div *ngFor="let answer of shuffledAnswers" class="answer-option animate-fade-in-up">
+                <input type="radio" name="question{{ currentQuestionIndex }}" id="{{ answer }}" value="{{ answer }}"
+                    [(ngModel)]="selectedAnswer" required />
+                <label for="{{ answer }}">{{ answer }}</label>
+            </div>
+
+            <button class="submit-btn" type="submit" [disabled]="!selectedAnswer || hasAnswered">
+                Submit
+            </button>
+        </form>
+
+        <button *ngIf="!isQuizFinished && hasAnswered" class="next-btn" (click)="nextQuestion()"
+            [disabled]="!hasAnswered">
+            Next
+        </button>
+
+        <div *ngIf="isQuizFinished" class="result animate-fade-in">
+            <h2>Your score: {{ total }} / {{ quizData.length }}</h2>
+            <button class="finish-btn" (click)="finishquize()">Finish Quiz</button>
+        </div>
+    </div>
+</div>

@@ -1,4 +1,4 @@
-/* === Overall Page Styles === */
+/* === Global Styles === */
 body {
   font-family: 'Inter', sans-serif;
   background-color: #f9fafb;
@@ -10,9 +10,31 @@ body {
 /* === Page Title === */
 h1 {
   text-align: center;
-  margin-bottom: 30px;
-  font-size: 28px;
+  margin-bottom: 40px;
+  font-size: 32px;
+  font-weight: 600;
   color: #1f2937;
+}
+
+/* === Form Styles === */
+form {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+select {
+  padding: 10px 16px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  background-color: #fff;
+  color: #374151;
+  transition: border 0.3s ease;
+}
+
+select:focus {
+  outline: none;
+  border-color: #3b82f6;
 }
 
 /* === Table Styling === */
@@ -21,13 +43,13 @@ h1 {
   max-width: 900px;
   margin: auto;
   border-collapse: collapse;
-  background-color: white;
+  background-color: #fff;
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  margin-bottom: 30px;
 }
 
-/* === Table Head === */
 .todo-table th {
   background-color: #f3f4f6;
   padding: 16px;
@@ -38,59 +60,124 @@ h1 {
   border-bottom: 1px solid #e5e7eb;
 }
 
-/* === Table Rows === */
 .todo-table td {
   padding: 16px;
   font-size: 15px;
   border-bottom: 1px solid #f1f5f9;
+  vertical-align: middle;
 }
 
-/* === Buttons === */
-.btn {
+/* === Button Grouping === */
+td .btn,
+td .btn-done,
+td .btn-pending {
+  margin-right: 6px;
+}
+
+/* === Button Base === */
+.btn,
+.btn-done,
+.btn-pending {
   padding: 6px 12px;
-  margin-right: 8px;
   border: none;
   border-radius: 6px;
   font-size: 14px;
+  font-weight: 500;
   cursor: pointer;
-  transition: 0.3s ease;
+  transition: background-color 0.3s ease, opacity 0.3s ease;
 }
 
-.btn.edit {
-  background-color: #facc15; /* yellow-400 */
-  color: #1f2937;
-}
-
-.btn.delete {
-  background-color: #ef4444; /* red-500 */
-  color: white;
-}
-
-.btn:hover {
+.btn:hover,
+.btn-done:hover,
+.btn-pending:hover {
   opacity: 0.9;
 }
 
+/* === Edit Button === */
+.btn.edit {
+  background-color: #facc15;
+  color: #1f2937;
+}
 
-.btn-done {
-  background-color: #10b981; /* green */
+/* === Delete Button === */
+.btn.delete {
+  background-color: #ef4444;
   color: white;
-    padding: 6px 12px;
-  margin-right: 8px;
-  border: none;
-  border-radius: 6px;
-  font-size: 14px;
-  cursor: pointer;
-  transition: 0.3s ease;
+}
+
+/* === Status Buttons === */
+.btn-done {
+  background-color: #10b981;
+  color: white;
 }
 
 .btn-pending {
-  background-color: #f59e0b; /* amber */
+  background-color: #f59e0b;
   color: white;
-    padding: 6px 12px;
-  margin-right: 8px;
-  border: none;
-  border-radius: 6px;
-  font-size: 14px;
-  cursor: pointer;
-  transition: 0.3s ease;
+}
+
+/* === Status Text Colors (Optional visual cue) === */
+.todo-table td.status-done {
+  color: #10b981;
+  font-weight: 600;
+}
+
+.todo-table td.status-pending {
+  color: #f59e0b;
+  font-weight: 600;
+}
+
+.selectlength {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.selectlength h3 {
+  margin: 10px 20px;
+  background-color: gray;
+  padding: 10px 10px;
+  border-radius: 10px;
+  color: white;
+}
+
+/* === Responsive Adjustments === */
+@media (max-width: 768px) {
+  body {
+    padding: 16px;
+  }
+
+  .todo-table {
+    font-size: 14px;
+  }
+
+  select {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .btn,
+  .btn-done,
+  .btn-pending {
+    margin-top: 6px;
+    width: 100%;
+  }
+
+  td {
+    display: block;
+    text-align: left;
+    padding: 12px;
+  }
+
+  tr {
+    display: block;
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  }
+
+  thead {
+    display: none;
+  }
 }

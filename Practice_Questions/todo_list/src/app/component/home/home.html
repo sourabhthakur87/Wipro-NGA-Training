@@ -1,7 +1,17 @@
 <h1>Home Page</h1>
-
+<div class="selectlength">
+    <form>
+        <select name="selectStatus" [(ngModel)]="selectStatus" (ngModelChange)="filterTodos()">
+            <option value="all">All</option>
+            <option value="pending">Pending</option>
+            <option value="done">Done</option>
+        </select>
+    </form>
+    <h3>Total To Do is: {{filteredTodoList.length}}</h3>
+</div>
 <table class="todo-table">
     <thead>
+
         <tr>
             <th>Id</th>
             <th>ToDo</th>
@@ -10,7 +20,7 @@
         </tr>
     </thead>
     <tbody>
-        @for (todo of todoList; track todo) {
+        @for (todo of filteredTodoList; track todo) {
         <tr>
             <td>{{todo.id}}</td>
             <td>{{ todo.todo }}</td>

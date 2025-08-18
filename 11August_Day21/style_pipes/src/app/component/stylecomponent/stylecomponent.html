@@ -1,0 +1,8 @@
+<h1>This is NgStyle Component</h1>
+
+<h3 [ngStyle]="{'color':color}">Hello My Colour is {{color}}</h3>
+
+<button (click)="changeColor('red')" [ngStyle]="{'color':'red','border':'2px solid red'}">Red</button>
+<button (click)="changeColor('green')" [ngStyle]="{'color':'green','border':'2px solid green'}">Green</button>
+<button (click)="changeColor('darkmagenta')" [ngStyle]="{'color':'darkmagenta','border':'2px solid darkmagenta'}">DarkMagenta</button>
+<button (click)="changeColor('coral')" [ngStyle]="{'color':'coral','border':'2px solid coral'}">Coral</button>
