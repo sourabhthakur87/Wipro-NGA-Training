@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\bin\Debug\net9.0\lambdaexpression.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\bin\Debug\net9.0\lambdaexpression.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\bin\Debug\net9.0\lambdaexpression.runtimeconfig.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\bin\Debug\net9.0\lambdaexpression.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\bin\Debug\net9.0\lambdaexpression.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\obj\Debug\net9.0\lambdaexpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\obj\Debug\net9.0\lambdaexpression.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\obj\Debug\net9.0\lambdaexpression.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\obj\Debug\net9.0\lambdaexpression.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\obj\Debug\net9.0\lambdaexpression.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\obj\Debug\net9.0\lambdaexpression.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\obj\Debug\net9.0\refint\lambdaexpression.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\obj\Debug\net9.0\lambdaexpression.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\obj\Debug\net9.0\lambdaexpression.genruntimeconfig.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\19August_Day27\lambdaexpression\obj\Debug\net9.0\ref\lambdaexpression.dll

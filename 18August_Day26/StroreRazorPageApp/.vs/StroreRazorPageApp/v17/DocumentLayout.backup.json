@@ -26,17 +26,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\18August_Day26\\StroreRazorPageApp\\StoreMVCAPP\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "StoreMVCAPP\\Views\\Categories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\18August_Day26\\StroreRazorPageApp\\StoreMVCAPP\\Views\\Categories\\Create.cshtml*",
-              "RelativeToolTip": "StoreMVCAPP\\Views\\Categories\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\18August_Day26\\StroreRazorPageApp\\StoreMVCAPP\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "StoreMVCAPP\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-18T10:26:33.518Z",
               "EditorCaption": ""
@@ -47,12 +55,11 @@
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\18August_Day26\\StroreRazorPageApp\\StoreMVCAPP\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "StoreMVCAPP\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\18August_Day26\\StroreRazorPageApp\\StoreMVCAPP\\Controllers\\CategoriesController.cs*",
-              "RelativeToolTip": "StoreMVCAPP\\Controllers\\CategoriesController.cs*",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\18August_Day26\\StroreRazorPageApp\\StoreMVCAPP\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "StoreMVCAPP\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T10:25:51.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T10:25:51.912Z"
             },
             {
               "$type": "Document",
@@ -64,16 +71,7 @@
               "RelativeToolTip": "StroreRazorPageApp\\Pages\\Product\\Index.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-18T10:20:46.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-08-18T10:20:46.96Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "StoreMVCAPP\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABAAAAAAAAAAAAAAwB8AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-18T09:40:50.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T09:40:50.478Z"
             }
           ]
         }
