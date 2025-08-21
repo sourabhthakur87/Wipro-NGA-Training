@@ -15,7 +15,32 @@ namespace BookMVCPractice.Controllers
         }
 
         public IActionResult Index()
+
         {
+            ViewData["text"] = "This is a sample text from ViewData";
+            ViewBag.text1 = "This is example of ViewBag";
+
+            TempData["text2"] = "This is Example of TempData";
+            
+
+
+            return View();
+        }
+
+        public IActionResult MyForm()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult ShowData(IFormCollection data)
+        {
+            //ViewBag.Name = name;
+            //ViewBag.gender = gender;
+            //return View();
+
+            ViewBag.Name = data["name"];
+            ViewBag.gender = data["gender"];
             return View();
         }
 
@@ -24,9 +49,17 @@ namespace BookMVCPractice.Controllers
             return View();
         }
 
-        [Authorize]
-        public IActionResult Booklist() { 
-            return View();
+        //[Authorize]
+        public IActionResult Booklist() {
+            List<StudentModel> Student = new List<StudentModel>()
+           {
+                new StudentModel() { rollNo = 1, Name = "John", age = 20, gender = "Male"},
+                new StudentModel() { rollNo = 2, Name = "John Thakur", age = 22, gender = "Male"},
+                new StudentModel() { rollNo = 3, Name = "shyam", age = 21, gender = "Male"},
+                new StudentModel() { rollNo = 4, Name = "dave", age = 12, gender = "Male"}
+
+           };
+            return View(Student);
         }
 
 

@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|solutionrelative:bookmvcpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\21august_day29\\bookmvcpractice\\bookmvcpractice\\views\\home\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|solutionrelative:bookmvcpractice\\views\\home\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\21august_day29\\bookmvcpractice\\bookmvcpractice\\views\\home\\myform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|solutionrelative:bookmvcpractice\\views\\home\\myform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\21august_day29\\bookmvcpractice\\bookmvcpractice\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|solutionrelative:bookmvcpractice\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\21august_day29\\bookmvcpractice\\bookmvcpractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|solutionrelative:bookmvcpractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\21august_day29\\bookmvcpractice\\bookmvcpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|solutionrelative:bookmvcpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\21august_day29\\bookmvcpractice\\bookmvcpractice\\views\\home\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E5BE545-A222-4F36-A291-A8EAF639810F}|BookMVCPractice\\BookMVCPractice.csproj|solutionrelative:bookmvcpractice\\views\\home\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,40 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "BookMVCPractice\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "BookMVCPractice\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ShowData.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Views\\Home\\ShowData.cshtml",
+              "RelativeDocumentMoniker": "BookMVCPractice\\Views\\Home\\ShowData.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Views\\Home\\ShowData.cshtml",
+              "RelativeToolTip": "BookMVCPractice\\Views\\Home\\ShowData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T04:51:10.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BookMVCPractice\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BookMVCPractice\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T04:49:18.489Z",
+              "WhenOpened": "2025-08-21T10:41:15.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Booklist.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Views\\Home\\Booklist.cshtml",
-              "RelativeDocumentMoniker": "BookMVCPractice\\Views\\Home\\Booklist.cshtml",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Views\\Home\\Booklist.cshtml",
-              "RelativeToolTip": "BookMVCPractice\\Views\\Home\\Booklist.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Title": "MyForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Views\\Home\\MyForm.cshtml",
+              "RelativeDocumentMoniker": "BookMVCPractice\\Views\\Home\\MyForm.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Views\\Home\\MyForm.cshtml",
+              "RelativeToolTip": "BookMVCPractice\\Views\\Home\\MyForm.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwBoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T04:48:40.906Z",
+              "WhenOpened": "2025-08-21T10:32:50.526Z",
               "EditorCaption": ""
             },
             {
@@ -87,22 +66,9 @@
               "RelativeDocumentMoniker": "BookMVCPractice\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\Controllers\\HomeController.cs",
               "RelativeToolTip": "BookMVCPractice\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA0wBoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwCoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T04:43:48.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\appsettings.json",
-              "RelativeDocumentMoniker": "BookMVCPractice\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\21August_Day29\\BookMVCPractice\\BookMVCPractice\\appsettings.json",
-              "RelativeToolTip": "BookMVCPractice\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-21T04:40:49.351Z",
               "EditorCaption": ""
             }
           ]

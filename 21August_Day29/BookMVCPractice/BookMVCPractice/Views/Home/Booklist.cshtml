@@ -4,4 +4,21 @@
 @{
 }
 
-<h1>Book List Page</h1>
+<h1>Student List Page</h1>
+
+
+@{
+    foreach (var student in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-body">
+
+                <h5 class="card-title">@student.Name</h5>
+                <p class="card-text">Age: @student.age</p>
+                <p class="card-text">Email: @student.gender</p>
+                <p class="card-text">Email: @student.rollNo</p>
+
+            </div>
+        </div>
+    }
+}

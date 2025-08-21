@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookMVCPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9480b081cab85ed6297b2b7a6095abd6066dd84d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+050ca9c5a86884feb5b1f10e8a82faca839a38e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookMVCPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookMVCPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
