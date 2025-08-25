@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\bin\Debug\net8.0\Repos.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\bin\Debug\net8.0\Repos.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\bin\Debug\net8.0\Repos.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\bin\Debug\net8.0\ModelsLib.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\bin\Debug\net8.0\ModelsLib.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\Repos.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\Repos.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\Repos.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\Repos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\Repos.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\Repos.csproj.Up2Date
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\Repos.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\refint\Repos.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\Repos.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\Repos\obj\Debug\net8.0\ref\Repos.dll

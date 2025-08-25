@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\22August_Day30\ADOPractice\ADOPractice\bin\Debug\ADOPractice.exe.config
+C:\Users\HP\Desktop\Wipro-NGA-Training\22August_Day30\ADOPractice\ADOPractice\bin\Debug\ADOPractice.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\22August_Day30\ADOPractice\ADOPractice\bin\Debug\ADOPractice.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\22August_Day30\ADOPractice\ADOPractice\obj\Debug\ADOPractice.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\22August_Day30\ADOPractice\ADOPractice\obj\Debug\ADOPractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\22August_Day30\ADOPractice\ADOPractice\obj\Debug\ADOPractice.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\22August_Day30\ADOPractice\ADOPractice\obj\Debug\ADOPractice.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\22August_Day30\ADOPractice\ADOPractice\obj\Debug\ADOPractice.exe.config

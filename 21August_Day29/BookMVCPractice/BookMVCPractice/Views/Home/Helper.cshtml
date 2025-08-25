@@ -1,0 +1,15 @@
+﻿@using (Html.BeginForm("Validate", "Home"))
+{
+	@Html.Label("Enter User name");
+	<br/>
+	@Html.TextBox("name");
+	<br/>
+
+	<br />
+	@Html.Label("Enter gender");
+	<br />
+	@Html.TextBox("gender");
+	<br />
+	<br/>
+	<input type="submit" class="btn btn-primary" value="Submit"/>
+}

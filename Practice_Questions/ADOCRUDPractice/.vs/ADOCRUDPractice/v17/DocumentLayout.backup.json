@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\Practice_Questions\\ADOCRUDPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEE0E1E-D56F-4196-8735-9E86F37AB0B5}|ADOCRUDPractice\\ADOCRUDPractice.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\practice_questions\\adocrudpractice\\adocrudpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEE0E1E-D56F-4196-8735-9E86F37AB0B5}|ADOCRUDPractice\\ADOCRUDPractice.csproj|solutionrelative:adocrudpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEE0E1E-D56F-4196-8735-9E86F37AB0B5}|ADOCRUDPractice\\ADOCRUDPractice.csproj|C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\Practice_Questions\\ADOCRUDPractice\\adocrudpractice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FBEE0E1E-D56F-4196-8735-9E86F37AB0B5}|ADOCRUDPractice\\ADOCRUDPractice.csproj|solutionrelative:adocrudpractice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\Practice_Questions\\ADOCRUDPractice\\ADOCRUDPractice\\App.config",
+              "RelativeDocumentMoniker": "ADOCRUDPractice\\App.config",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\Practice_Questions\\ADOCRUDPractice\\ADOCRUDPractice\\App.config",
+              "RelativeToolTip": "ADOCRUDPractice\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-23T15:40:50.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\Practice_Questions\\ADOCRUDPractice\\ADOCRUDPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ADOCRUDPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\Practice_Questions\\ADOCRUDPractice\\ADOCRUDPractice\\Program.cs*",
+              "RelativeToolTip": "ADOCRUDPractice\\Program.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:28:26.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

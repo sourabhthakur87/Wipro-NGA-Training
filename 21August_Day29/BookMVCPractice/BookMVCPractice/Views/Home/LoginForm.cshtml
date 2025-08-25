@@ -1,0 +1,23 @@
+﻿<div class="container">
+	@using (Html.BeginForm("ShowData", "Home"))
+	{
+		@Html.Label("Enter Name")
+		<br />
+		@Html.TextBox("Name", null, new { @class = "form-control" })
+		<br/>
+		<br/>
+		@Html.Label("Enter Surname")
+		<br />
+		@Html.TextBox("surname", null, new { @class = "form-control" })
+		<br />
+		<br />
+		@Html.Label("Enter Password")
+		<br />
+		@Html.TextBox("password", null, new { @class = "form-control" })
+		<br />
+		<br />
+
+		<input type="submit" class="btn btn-primary" value="Submit" />
+		<input type="reset" class="btn btn-secondary" value="Reset" />
+	}
+</div>

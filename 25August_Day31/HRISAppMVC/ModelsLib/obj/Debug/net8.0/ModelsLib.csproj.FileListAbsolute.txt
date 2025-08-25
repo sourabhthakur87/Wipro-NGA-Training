@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\bin\Debug\net8.0\ModelsLib.deps.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\bin\Debug\net8.0\ModelsLib.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\bin\Debug\net8.0\ModelsLib.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\obj\Debug\net8.0\ModelsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\obj\Debug\net8.0\ModelsLib.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\obj\Debug\net8.0\ModelsLib.AssemblyInfo.cs
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\obj\Debug\net8.0\ModelsLib.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\obj\Debug\net8.0\ModelsLib.sourcelink.json
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\obj\Debug\net8.0\ModelsLib.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\obj\Debug\net8.0\refint\ModelsLib.dll
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\obj\Debug\net8.0\ModelsLib.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\25August_Day31\HRISAppMVC\ModelsLib\obj\Debug\net8.0\ref\ModelsLib.dll

@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\ADOCRUDPractice\ADOCRUDPractice\bin\Debug\ADOCRUDPractice.exe.config
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\ADOCRUDPractice\ADOCRUDPractice\bin\Debug\ADOCRUDPractice.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\ADOCRUDPractice\ADOCRUDPractice\bin\Debug\ADOCRUDPractice.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\ADOCRUDPractice\ADOCRUDPractice\obj\Debug\ADOCRUDPractice.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\ADOCRUDPractice\ADOCRUDPractice\obj\Debug\ADOCRUDPractice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\ADOCRUDPractice\ADOCRUDPractice\obj\Debug\ADOCRUDPractice.exe
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\ADOCRUDPractice\ADOCRUDPractice\obj\Debug\ADOCRUDPractice.pdb
+C:\Users\HP\Desktop\Wipro-NGA-Training\Practice_Questions\ADOCRUDPractice\ADOCRUDPractice\obj\Debug\ADOCRUDPractice.exe.config

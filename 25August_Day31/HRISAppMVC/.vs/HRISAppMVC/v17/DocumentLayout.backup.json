@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\25August_Day31\\HRISAppMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7F7039-DB13-4379-A31D-8E336DB670EB}|HRISAppMVC\\HRISAppMVC.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\25august_day31\\hrisappmvc\\hrisappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7F7039-DB13-4379-A31D-8E336DB670EB}|HRISAppMVC\\HRISAppMVC.csproj|solutionrelative:hrisappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7F7039-DB13-4379-A31D-8E336DB670EB}|HRISAppMVC\\HRISAppMVC.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\25august_day31\\hrisappmvc\\hrisappmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7F7039-DB13-4379-A31D-8E336DB670EB}|HRISAppMVC\\HRISAppMVC.csproj|solutionrelative:hrisappmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7F7039-DB13-4379-A31D-8E336DB670EB}|HRISAppMVC\\HRISAppMVC.csproj|c:\\users\\hp\\desktop\\wipro-nga-training\\25august_day31\\hrisappmvc\\hrisappmvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F7F7039-DB13-4379-A31D-8E336DB670EB}|HRISAppMVC\\HRISAppMVC.csproj|solutionrelative:hrisappmvc\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\25August_Day31\\HRISAppMVC\\HRISAppMVC\\Program.cs",
+              "RelativeDocumentMoniker": "HRISAppMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\25August_Day31\\HRISAppMVC\\HRISAppMVC\\Program.cs",
+              "RelativeToolTip": "HRISAppMVC\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:27:41.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\25August_Day31\\HRISAppMVC\\HRISAppMVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HRISAppMVC\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\25August_Day31\\HRISAppMVC\\HRISAppMVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HRISAppMVC\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:16:29.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\25August_Day31\\HRISAppMVC\\HRISAppMVC\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "HRISAppMVC\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Wipro-NGA-Training\\25August_Day31\\HRISAppMVC\\HRISAppMVC\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "HRISAppMVC\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:21:22.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

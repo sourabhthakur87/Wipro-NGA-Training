@@ -1,6 +1,5 @@
 using System.Diagnostics;
 using BookMVCPractice.Models;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BookMVCPractice.Controllers
@@ -21,7 +20,7 @@ namespace BookMVCPractice.Controllers
             ViewBag.text1 = "This is example of ViewBag";
 
             TempData["text2"] = "This is Example of TempData";
-            
+
 
 
             return View();
@@ -39,8 +38,9 @@ namespace BookMVCPractice.Controllers
             //ViewBag.gender = gender;
             //return View();
 
-            ViewBag.Name = data["name"];
-            ViewBag.gender = data["gender"];
+            ViewBag.Name = data["Name"];
+            ViewBag.surname = data["surname"];
+            ViewBag.password = data["password"];
             return View();
         }
 
@@ -50,7 +50,8 @@ namespace BookMVCPractice.Controllers
         }
 
         //[Authorize]
-        public IActionResult Booklist() {
+        public IActionResult Booklist()
+        {
             List<StudentModel> Student = new List<StudentModel>()
            {
                 new StudentModel() { rollNo = 1, Name = "John", age = 20, gender = "Male"},
@@ -62,6 +63,16 @@ namespace BookMVCPractice.Controllers
             return View(Student);
         }
 
+
+        public IActionResult Helper()
+        {
+            return View();
+        }
+
+        public IActionResult LoginForm()
+        {
+            return View();
+        }
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
